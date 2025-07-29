@@ -2,7 +2,7 @@
 
 This repository contains the main simulation code for the following article:
 
-> Gubbala, A., Jena, A. M., Arnold, D. P., & Takatori, S. C. (2025). Phase field model for viscous inclusions in anisotropic networks. arXiv preprint [arXiv:2505.06432](https://arxiv.org/abs/2505.06432).
+> Gubbala, A., Jena, A. M., Arnold, D. P., & Takatori, S. C. Phase field model for viscous inclusions in anisotropic networks. _Soft Matter_ (2025). DOI: [10.1039/D5SM00478K](https://doi.org/10.1039/D5SM00478K).
 
 ### Installation
 
